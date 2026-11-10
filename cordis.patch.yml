@@ -1,0 +1,5 @@
+# Installable bundle identity for the stock panel; the Host half serves the quote proxy.
+- insert:
+    - id: dsh-stock-panel
+      name: 'dsh-stock-panel'
+      config: {}

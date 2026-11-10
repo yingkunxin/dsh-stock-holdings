@@ -1,0 +1,4 @@
+node_modules/
+*.tgz
+PUBLISHING.md
+.DS_Store
