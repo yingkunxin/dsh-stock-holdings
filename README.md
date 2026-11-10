@@ -25,10 +25,10 @@ quotes, market value, profit and loss, and today's intraday chart.
 
 ## 安装 / Install
 
-从 GitHub 仓库安装（把 `<owner>/<repo>` 换成实际仓库）：
+从 GitHub 仓库安装：
 
 ```bash
-dsh plugin add github:<owner>/<repo>
+dsh plugin add github:yingkunxin/dsh-stock-holdings
 ```
 
 已发布到 npm 时也可以直接按包名安装：

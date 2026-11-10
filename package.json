@@ -5,6 +5,14 @@
   "type": "module",
   "main": "index.js",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yingkunxin/dsh-stock-holdings.git"
+  },
+  "homepage": "https://github.com/yingkunxin/dsh-stock-holdings",
+  "bugs": {
+    "url": "https://github.com/yingkunxin/dsh-stock-holdings/issues"
+  },
   "keywords": [
     "dsh-plugin",
     "deepseek-harness",
